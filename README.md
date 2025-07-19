@@ -4,12 +4,11 @@
 
 Este es un **prototipo estudiantil** desarrollado para un experimento de Design Thinking que simula una experiencia de compra en Mercado Libre con funcionalidades de inteligencia artificial integradas. El proyecto forma parte del curso de Design Thinking en la Universidad de los Andes.
 
-## 🎯 Objetivo del Prototipo
+## Evidencia de ejecución de prototipo
 
-Evaluar la experiencia de usuario al integrar un asistente de IA en una plataforma de e-commerce, específicamente:
-- Comportamiento del usuario ante recomendaciones de IA
-- Efectividad del botón flotante de IA
-- Impacto de las sugerencias de productos en las decisiones de compra
+https://github.com/user-attachments/assets/0216af4b-8b05-441b-ba40-8913adc523c1
+
+
 
 ## 🚀 Cómo Probar el Prototipo
 
@@ -118,15 +117,8 @@ Los productos son simulados y se encuentran en `MainActivity.kt` (líneas 95-200
 ## 🎓 Contexto Académico
 
 **Universidad**: Universidad de los Andes  
-**Curso**: Design Thinking - Ciclo 9  
-**Semestre**: 2024  
-**Objetivo**: Evaluar la integración de IA en e-commerce
-
-## 📞 Soporte
-
-Para problemas técnicos o preguntas sobre el prototipo:
-- **Email**: tu-email@uniandes.edu.co
-- **GitHub Issues**: [Crear un issue](https://github.com/tu-usuario/experimento-design-thinking/issues)
+**Curso**: Design Thinking
+**Semestre**: 2025  
 
 ## 📄 Licencia
 
@@ -192,13 +184,3 @@ var aiPriceControlEnabled = true
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## Autor
-
-- **Tu Nombre** - [@tu-usuario](https://github.com/tu-usuario)
-
-## Agradecimientos
-
-- Universidad de los Andes - Ciclo 9 Design Thinking
-- Mercado Libre por la inspiración en el diseño
-- Comunidad de Android y Jetpack Compose 
