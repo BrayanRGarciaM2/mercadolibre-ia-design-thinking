@@ -4,6 +4,10 @@
 
 Este es un **prototipo estudiantil** desarrollado para un experimento de Design Thinking que simula una experiencia de compra en Mercado Libre con funcionalidades de inteligencia artificial integradas. El proyecto forma parte del curso de Design Thinking en la Universidad de los Andes.
 
+## Prototipo de marketing
+
+https://youtu.be/6FCO0dPt0Ko?si=CbYq30vho31pAmvS
+
 ## Evidencia de ejecución de prototipo
 
 https://github.com/user-attachments/assets/0216af4b-8b05-441b-ba40-8913adc523c1
